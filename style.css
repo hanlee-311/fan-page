@@ -1,0 +1,53 @@
+body {
+    background-image: url("https://blog.spoongraphics.co.uk/wp-content/uploads/2012/textures/19.jpg")
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+}
+
+.center {
+    text-align: center;
+    font-size: 25px;
+    color: darkgreen;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.ParagraphFont {
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 40px;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+table {
+    display: block;
+    margin: 0 auto;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.StyledFont {
+    text-align: center;
+    color:darkred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.StyledFont2 {
+    color: darkred;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.StyledFont3 {
+    color:darkslateblue;
+    text-align: center;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
